@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samarthsingh1507
-- 👀 I’m interested in CODING and DEVELOPING😀
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on Projects that may help in upgrading my profile
+-  I’m interested in CODING and DEVELOPING😀
+- 🌱 I’m currently learning Data Structures   and Algorithms
+- I’m looking to collaborate on Projects that may help in upgrading my profile
 - 📫 How to reach me samarthsingh081522@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I Try My Best at things I DO😊😊
